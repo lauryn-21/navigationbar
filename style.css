@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+nav  a{
+  color: maroon;
+}
+.container{
+    display: flex;
+    justify-items: flex-end;
+    justify-content: end;
+    align-items: center;
+    gap: 30px
+}
